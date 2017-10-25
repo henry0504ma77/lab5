@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\henry\Desktop\android\lab5\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\henry\Desktop\android\lab5\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_15d0c5ca01234e1298caf3b2ce72b2128e856345\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\henry\Desktop\android\lab5\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\henry\Desktop\android\lab5\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_c216ca3b77485dbc1d89da9ac955937357e3bc8f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\henry\Desktop\android\lab5\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="eda3754df36e23f4165cff3a947d18d4c9918d57">
+        <dex dex="C:\Users\henry\Desktop\android\lab5\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_550babcd79c14e2719c060164514e3704736d75c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\henry\Desktop\android\lab5\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\henry\Desktop\android\lab5\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_6708fe6128a3efe3b15373a408ad397dfae8419b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\henry\Desktop\android\lab5\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\henry\Desktop\android\lab5\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_f58c6d452b8d12e70d2d7a6383319d0386607674\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\henry\Desktop\android\lab5\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\henry\Desktop\android\lab5\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_77a7910e33eea0d50eb9e0c3d981e21c2132b785\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\henry\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\henry\Desktop\android\lab5\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_1d93b91c2a149107f26106157fc49fbe0eb8f729\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\henry\Desktop\android\lab5\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="2e32d434f3eaabfe7a750e8fbdf6a105a73746ea">
+        <dex dex="C:\Users\henry\Desktop\android\lab5\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7e2502f56310c58631c23219c1a7f8afe1f09565\classes.dex" />
+    </item>
+
+</items>
